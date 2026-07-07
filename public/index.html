@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Calculadora do Treinamento</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <main class="app">
+      <section class="panel" aria-labelledby="title">
+        <p class="eyebrow">Treinamento GitHub Actions</p>
+        <h1 id="title">Calculadora de exemplo</h1>
+
+        <form id="calculator-form" class="calculator">
+          <label>
+            Primeiro numero
+            <input id="first-number" name="firstNumber" type="number" value="2">
+          </label>
+
+          <label>
+            Operacao
+            <select id="operation" name="operation">
+              <option value="sum">Somar</option>
+              <option value="subtract">Subtrair</option>
+              <option value="multiply">Multiplicar</option>
+            </select>
+          </label>
+
+          <label>
+            Segundo numero
+            <input id="second-number" name="secondNumber" type="number" value="3">
+          </label>
+
+          <button type="submit">Calcular</button>
+        </form>
+
+        <output id="result" class="result" aria-live="polite">Resultado: 5</output>
+      </section>
+    </main>
+
+    <script src="app.js"></script>
+  </body>
+</html>
