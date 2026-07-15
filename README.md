@@ -10,7 +10,7 @@ Projeto didático para praticar versionamento de código, colaboração via GitH
 
 1. Fernanda
 2. Goku
-
+3. Murilo Cardoso
 ---
 
 ## Estrutura do Projeto
