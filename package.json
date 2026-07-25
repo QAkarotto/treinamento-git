@@ -10,7 +10,7 @@
     "start": "node scripts/serve.js",
     "test": "jest tests/unit",
     "test:coverage": "jest --coverage",
-    "test:e2e": "playwright test --headed"
+    "test:e2e": "playwright test"
   },
   "engines": {
     "node": ">=22"
