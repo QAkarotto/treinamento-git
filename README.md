@@ -8,10 +8,10 @@ Projeto didático para praticar versionamento de código, colaboração via GitH
 
 ### Lista de alunos que concordam que o Professor Goku é o melhor professor do universo (adicione seu nome em ordem alfabética:):
 
-1. Edcleryton (Eddie)
-2. Goku
-3.  
-
+1. Douglas
+2. Edcleryton (Eddie)
+3. Fernanda
+4. Vagner
 
 ---
 
