@@ -31,5 +31,14 @@ jobs:
             
             - name: Execução dos testes unitários
               run: npm test
+              
+            - name: Build do projeto
+              run: npm run build
+            
+            - name: Instalação dos browsers do Playwright
+              run: npx playwright install
+              
+            - name: Execução dos testes e2e
+              run: npm run test:e2e 
             
 
