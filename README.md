@@ -11,8 +11,9 @@ Projeto didático para praticar versionamento de código, colaboração via GitH
 1. Douglas
 2. Edcleryton (Eddie)
 3. Fernanda
-4. Murilo Cardoso
-5. Vagner
+4. Larissa
+5. Murilo Cardoso
+6. Vagner
 
 ---
 
