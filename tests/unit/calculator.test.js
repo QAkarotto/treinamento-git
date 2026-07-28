@@ -1,4 +1,4 @@
-const { multiply, subtract, sum } = require("../src/calculator");
+const { multiply, subtract, sum } = require("../../src/calculator");
 
 describe("calculator", () => {
   // Cada teste protege uma operacao basica para que os alunos enxerguem falhas

@@ -127,9 +127,10 @@ reports
 .vscode-test
 
 #Tests
-/playwright-report
+playwright-report
 /test-results
 /reports
+
 
 
 # pnpm
